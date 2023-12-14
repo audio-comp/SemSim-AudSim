@@ -5,8 +5,7 @@ This repository contains adjective-noun (AN) phrase similarity judgments for the
 2) Audio Similarity
 
 For each task, the dataset contains 30 adjectives with 15-20 nouns each, and 3,144 adjective-noun pairs. 
-We collected human judgements from Amazon Mechanical Turk(AMT) with 15 different subjects per questionnaire totalling 113 annotators and 48,870 annotations for each task
-Inter-annotator agreement between the annotators is 0.69 for semantic similarity and 0.67 for audio similarity.
+We collected human judgements from Amazon Mechanical Turk(AMT) with 15 different subjects per questionnaire totalling 113 annotators and 47,160 annotations for each task. Inter-annotator agreement between the annotators is 0.69 for semantic similarity and 0.67 for audio similarity.
 
 
 Description of files:
