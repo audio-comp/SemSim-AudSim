@@ -1,5 +1,5 @@
 
-Dataset of adjective-noun (AN) phrase similarity judgments for the following two tasks:
+This repository contains adjective-noun (AN) phrase similarity judgments for the following two tasks:
 
 1) Semantic Similarity
 2) Audio Similarity
