@@ -13,9 +13,10 @@ Description of files:
 * annotations.csv: file containing the informative fields from the AMT experiment.
   The fields are as follows:
   - id : unique reference for each annotation
-	- Pair : adjective-noun pair (AN1-AN2) to be annotated	
-	- Sem_Sim: Mean semantic similarties scores of 15 annotators
-	- Aud_Sim: Mean Audio similarties scores of 15 annotators
+   	- Pid: Unique id of eatch AN-AN pair.
+	- Pair : Adjective-noun pair (AN1-AN2) to be annotated	
+	- Sem_Sim: Mean semantic similarties annotation scores of 15 annotators
+	- Aud_Sim: Mean Audio similarties annotation scores of 15 annotators
 
 * AMT-sample :This folder contains a snapshot of the instructions and pair samples as presented to the annotators for each tasks. 
 
