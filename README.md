@@ -21,12 +21,3 @@ Description of files:
 * AMT-sample :This folder contains a snapshot of the instructions and pair samples as presented to the annotators for each tasks. 
 
 
-When using the data set, please cite:
-
-@article{Nazir:etal:2023,
-author = {Saba Nazir and Mehrnoosh Sadrzadeh},
-title = {How Does an Adjective Sounds like? Improving Audio Phrase Composition using Text Embeddings},
-journal = {--},
-year = {--},
-}
-
